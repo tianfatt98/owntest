@@ -8,8 +8,5 @@
   {
     die("Error connection: ".sqlsrv_errors());
   }
-  else
-  {
-    echo "Connection to Db: Success!";
-  }
+  echo "Connection to Db: Success!";
 <?>
