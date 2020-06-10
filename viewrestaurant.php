@@ -28,4 +28,4 @@
 //   }
 //   echo "</table>";
 //   sqlsrv_free_stmt($getResults);
-<?>
+?>
